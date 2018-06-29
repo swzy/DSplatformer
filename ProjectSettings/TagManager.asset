@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Background
+  - Clouds
   layers:
   - Default
   - TransparentFX
@@ -41,9 +43,24 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Characters
-    uniqueID: 1789969141
+  - name: backgroundMountains1
+    uniqueID: 4220663739
+    locked: 0
+  - name: backgroundMountains2
+    uniqueID: 1446526419
+    locked: 0
+  - name: Clouds
+    uniqueID: 2927808485
     locked: 0
   - name: Foliage
     uniqueID: 560121193
+    locked: 0
+  - name: upperPlatform
+    uniqueID: 3468772991
+    locked: 0
+  - name: Platform
+    uniqueID: 428395907
+    locked: 0
+  - name: Characters
+    uniqueID: 1789969141
     locked: 0
