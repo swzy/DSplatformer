@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Background
   - Clouds
+  - Fire
   layers:
   - Default
   - TransparentFX
@@ -17,7 +18,7 @@ TagManager:
   - 
   - Characters
   - Foliage
-  - 
+  - Platform
   - 
   - 
   - 
