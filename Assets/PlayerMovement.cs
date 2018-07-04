@@ -11,6 +11,6 @@ public class PlayerMovement : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+		GetComponent<Rigidbody2D>().AddForce(Vector2.right*10);
 	}
 }
