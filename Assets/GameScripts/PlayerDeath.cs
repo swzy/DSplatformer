@@ -22,11 +22,8 @@ public class PlayerDeath : MonoBehaviour {
 			Die();
 		}
 	}
-	void Die()
-	{
-        //Needs 'game over' and posts score/graphical text to a leaderboard.
-
-        SceneManager.LoadScene("Main");
-       // HSController.PostScores("name", PlayerScore.playerScore); //Uses static PostScore method to post the playerScore variable. NEED TO CREATE PLAYERNAME.
+    void Die()
+    {
+        SceneManager.LoadScene("DeathScreen");
     }
 }

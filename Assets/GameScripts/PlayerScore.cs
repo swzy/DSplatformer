@@ -1,12 +1,10 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 
 public class PlayerScore : MonoBehaviour {
 
 	private float timeLeft = 200;
-	public static int playerScore = 0;
+	public static int playerScore = 5;
 	public GameObject timeLeftUI;
 	public GameObject playerScoreUI;
 

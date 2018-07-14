@@ -58,9 +58,8 @@
      <Compile Include="Assets\GameScripts\ExtensionMethods.cs" />
      <Compile Include="Assets\GameScripts\PlayerDeath.cs" />
      <Compile Include="Assets\GameScripts\PlayerScore.cs" />
+     <Compile Include="Assets\GetandSetName.cs" />
      <Compile Include="Assets\HighScorePanelActivate.cs" />
-     <Compile Include="Assets\HSController.cs" />
-     <Compile Include="Assets\NameInput.cs" />
      <Compile Include="Assets\PauseMenu.cs" />
      <Compile Include="Assets\RegisterScore.cs" />
      <Compile Include="Assets\showGameScore.cs" />
