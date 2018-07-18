@@ -6,3 +6,5 @@ Adding a small changelog (SY)
 Imported standard 2D assets  
 Added colliders and tweaked physics to player model  
 Cleaned up level design for future infinite loop  
+
+The raw file of level one was passed and then used to creat a second level.
